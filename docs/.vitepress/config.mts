@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
 	title: '算法刷题与题解',
-	base: '/encoode-algorithms/',
+	base: '/encode-algorithms',
 	themeConfig: {
 		logo: '/avatar.png',
 		nav: [
