@@ -11,7 +11,8 @@
     "docs:preview": "vitepress preview docs"
   },
   "keywords": [
-    "algorithms"
+    "algorithms",
+    "encode"
   ],
   "author": "",
   "license": "ISC",
