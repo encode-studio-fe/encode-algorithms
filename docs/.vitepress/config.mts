@@ -26,12 +26,15 @@ export default defineConfig({
 				text: 'easy',
 				items: [
 					{ text: '141. 环形链表', link: '/easy/141. 环形链表' },
+					{ text: '202. 快乐数', link: '/easy/202. 快乐数' },
+					{ text: '206. 反转链表', link: '/easy/206. 反转链表' },
 				],
 			},
 			{
 				text: '中等',
 				items: [
 					{ text: '142. 环形链表 II', link: '/medium/142. 环形链表 II' },
+					{ text: '92. 反转链表 II', link: '/medium/92. 反转链表 II' },	
 				]
 			},
 			{
