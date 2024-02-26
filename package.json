@@ -1,0 +1,24 @@
+{
+  "name": "encode-algorithms",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "algorithms刷题与题解",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "init": "pnpm install && pnpm run docs:build",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.36"
+  },
+  "engines": {
+    "node": ">= 18.14.0"
+  }
+}
