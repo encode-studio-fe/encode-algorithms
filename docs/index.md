@@ -8,6 +8,9 @@ hero:
     - theme: brand
       text: 开始学习
       link: /easy/141. 环形链表
+    - theme: alt
+      text: 通用技巧
+      link: /common/二分查找
 features:
   - title: 内容全面
     details: 帮助您掌握算法的具体使用技巧

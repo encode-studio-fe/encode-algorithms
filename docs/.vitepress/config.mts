@@ -19,11 +19,15 @@ export default defineConfig({
 				text: '困难',
 				link: '/hard/25. K 个一组翻转链表',
 			},
+			{
+				text: '通用',
+				link: '/common/二分查找',
+			},
 		],
 
 		sidebar: [
 			{
-				text: 'easy',
+				text: '简单',
 				items: [
 					{ text: '141. 环形链表', link: '/easy/141. 环形链表' },
 					{ text: '202. 快乐数', link: '/easy/202. 快乐数' },
@@ -41,6 +45,12 @@ export default defineConfig({
 				text: '困难',
 				items: [
 					{ text: '25. K 个一组翻转链表', link: '/hard/25. K 个一组翻转链表' },
+				]
+			},
+			{
+				text: '通用',
+				items: [
+					{ text: '二分查找', link: '/common/二分查找' },
 				]
 			},
 		],
