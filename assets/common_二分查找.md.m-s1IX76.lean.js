@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,U as h}from"./chunks/framework.uUfiGZcz.js";const c=JSON.parse('{"title":"二分查找","description":"","frontmatter":{},"headers":[],"relativePath":"common/二分查找.md","filePath":"common/二分查找.md"}'),n={name:"common/二分查找.md"},k=h("",37),t=[k];function l(p,e,E,d,r,g){return a(),i("div",null,t)}const F=s(n,[["render",l]]);export{c as __pageData,F as default};
