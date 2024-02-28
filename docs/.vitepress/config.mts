@@ -32,6 +32,7 @@ export default defineConfig({
 					{ text: '141. 环形链表', link: '/easy/141. 环形链表' },
 					{ text: '202. 快乐数', link: '/easy/202. 快乐数' },
 					{ text: '206. 反转链表', link: '/easy/206. 反转链表' },
+					{ text: '704. 二分查找', link: '/easy/704. 二分查找' },
 				],
 			},
 			{
